@@ -7,17 +7,22 @@
       Back-End Deploy : https://railway.com/project/63291828-ab5a-42cb-9514-3c99c41a16c0/service/5d688b0f-131f-4773-a097-d44ec1452fe5/settings?environmentId=8e1b24cf-bf32-42dc-8b01-b3651b7e7189
 2.	Finser Project (Loan Management System)
       Front-End code : https://github.com/edupoly/loan-management-system-frontend.git
+  	
       Back- End code : https://github.com/edupoly/lms-Backend.git
+  	
       Front-End Deploy : https://loan-management-system-frontend-mauve.vercel.app/
+  	
       Back-End Deploy : https://railway.com/project/192712de-6581-49d5-924d-b73230575bc8/service/f7f0a43e-1a62-4b35-9903-856bc529bc77?environmentId=bd14acbf-8801-4f89-aedd-12c8e64a5d85
+  	
       Database Name : https://cloud.mongodb.com/v2/6577204537294e60006b1ce2#/metrics/replicaSet/6577213effcf3a36fef7524a/explorer/lms
+  	
   			Login Details 
           Role	Username /password
           Admin	Praveen / 123
           Manager	dhritiman/123
           User	venkat/Venkat1
 
-3.	Grievance Redressal Agent(School Project)
+4.	Grievance Redressal Agent(School Project)
       Front-End code : https://github.com/edupoly/Grievance-Redressal-Agent-Frontend.git
       Back- End code : https://github.com/edupoly/Bhashyam-Backend.git
       Front-End Deploy : https://grievance-redressal-agent-frontend.vercel.app/
@@ -31,7 +36,7 @@
         Principal	p1567/123
         Zonal officer	z1234/123
 
-4.	 Lead Management System (CRM)
+5.	 Lead Management System (CRM)
       Front-End code : https://github.com/edupoly/lead-management.git
       Back- End code : https://github.com/edupoly/edupoly-crm-backend.git
       Front-End Deploy : https://lead-management-one.vercel.app/
